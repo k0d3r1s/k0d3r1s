@@ -28,6 +28,9 @@
 <a href="https://www.facebook.com/davis.zalitis">
   <img align="left" alt="Dāvis Zālītis | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.youtube.com/channel/UCfd2i-4AAvnRe2hIdig6AUw">
+  <img align="left" alt="Dāvis Zālītis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 <p align="center">
   <img src="https://avatars0.githubusercontent.com/u/44346553?s=100&v=4">

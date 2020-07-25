@@ -2,6 +2,10 @@
   <a href="https://last.fm/user/k0d3r1s" target="_blank"><img src="https://spotify-github-profile-mauve.vercel.app/api/view?uid=9d2gn8vajmgxg5vb7ow13d730&cover_image=false" alt="now playing"></a>
 </p>
 
+<p align="center">
+  <img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4">
+</p>
+
 ## Hi, I'm Dāvis /['da:vis']/ 👋
 
 <a href="https://connect.symfony.com/profile/k0d3r1s">
@@ -31,10 +35,6 @@
 <a href="https://www.youtube.com/channel/UCfd2i-4AAvnRe2hIdig6AUw">
   <img align="left" alt="Dāvis Zālītis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
-<p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/44346553?s=100&v=4">
-</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

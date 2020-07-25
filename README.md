@@ -5,5 +5,5 @@
 # Hi, I'm Dāvis /['da:vis']/ 👋
 
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/44346553?s=200&v=4">
+  <img src="https://avatars0.githubusercontent.com/u/44346553?s=100&v=4">
 </p>

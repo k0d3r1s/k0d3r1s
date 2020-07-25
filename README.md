@@ -16,6 +16,9 @@
 <a href="https://steamcommunity.com/id/ozo2003">
   <img align="left" alt="Dāvis Zālītis | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
 </a>
+<a href="https://www.steamgifts.com/user/ozo2003">
+  <img align="left" alt="Dāvis Zālītis | SteamGifts" width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/steamgifts.svg" />
+</a>
 <a href="https://www.reddit.com/user/k0d3r1s">
   <img align="left" alt="Dāvis Zālītis | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>

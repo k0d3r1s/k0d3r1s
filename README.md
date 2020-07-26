@@ -40,7 +40,7 @@
 ### **Languages, Frameworks and Tools:**
 <table>
   <tr>
-    <th colspan="13">Using</td>
+    <th colspan="17">Using</td>
   </tr>
   <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" /></td>
@@ -56,12 +56,12 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /></td>
-  </tr>
-  <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitkraken.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" /></td>
+  </tr>
+  <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /></td>
@@ -71,8 +71,6 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /></td>
-  </tr>
-  <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /></td>
@@ -83,7 +81,7 @@
 
 <table>
   <tr>
-    <th colspan="13">Learning</td>
+    <th colspan="17">Learning</td>
   </tr>
   <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /></td>
@@ -100,7 +98,7 @@
 
 <table>
   <tr>
-    <th colspan="13">Used to use</td>
+    <th colspan="17">Used to use</td>
   </tr>
   <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></td>
@@ -109,7 +107,7 @@
 
 <table>
   <tr>
-    <th colspan="13">Would like to learn</td>
+    <th colspan="17">Would like to learn</td>
   </tr>
   <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /></td>
@@ -127,7 +125,7 @@
 
 <table>
   <tr>
-    <th colspan="13">Never again</td>
+    <th colspan="17">Never again</td>
   </tr>
   <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" /></td>

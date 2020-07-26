@@ -38,8 +38,8 @@
 <br/>
 
 ### **Languages, Frameworks and Tools:**
-<div>
 <strong>Using:</strong><br>
+<div>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/centos.svg" /> 
@@ -74,8 +74,8 @@
 </div>
 <br>
 
-<div>
 <strong>Learning:</strong><br>
+<div>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /> 
@@ -88,14 +88,14 @@
 </div>
 <br>
 
-<div>
 <strong>Used to use:</strong><br>
+<div>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 </div>
 <br>
 
-<div>
 <strong>Would like to learn:</strong><br>
+<div>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
@@ -109,12 +109,12 @@
 </div>
 <br>
 
-<div>
 <strong>Never again:</strong><br>
+<div>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
 </div>
-<br>
+<br><br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

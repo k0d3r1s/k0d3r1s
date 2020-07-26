@@ -43,41 +43,41 @@
     <th colspan="13">Using</td>
   </tr>
   <tr>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/centos.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cloudflare.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/composer.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/debian.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fontawesome.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/centos.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cloudflare.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/composer.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/debian.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fontawesome.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /></td>
   </tr>
   <tr>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitkraken.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitkraken.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /></td>
   </tr>
   <tr>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /></td>
   </tr>
 </table><br>
 
@@ -86,15 +86,15 @@
     <th colspan="13">Learning</td>
   </tr>
   <tr>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /></td>
   </tr>
 </table><br>
 
@@ -103,7 +103,7 @@
     <th colspan="13">Used to use</td>
   </tr>
   <tr>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></td>
   </tr>
 </table><br>
 
@@ -112,16 +112,16 @@
     <th colspan="13">Would like to learn</td>
   </tr>
   <tr>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/materialdesign.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/materialdesign.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /></td>
   </tr>
 </table><br>
 
@@ -130,8 +130,8 @@
     <th colspan="13">Never again</td>
   </tr>
   <tr>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" /></td>
-    <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /></td>
   </tr>
 </table><br>
 

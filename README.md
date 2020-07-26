@@ -35,8 +35,8 @@
 <a href="https://www.youtube.com/channel/UCfd2i-4AAvnRe2hIdig6AUw">
   <img align="left" alt="Dāvis Zālītis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<br/>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=k0d3r1s.k0d3r1s)

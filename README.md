@@ -36,7 +36,7 @@
   <img align="left" alt="Dāvis Zālītis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br/>
-
+### **Languages and Frameworks:**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

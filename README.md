@@ -77,7 +77,7 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /></td>
   </tr>
-</table><br>
+</table>
 
 <table>
   <tr>
@@ -94,16 +94,7 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /></td>
   </tr>
-</table><br>
-
-<table>
-  <tr>
-    <th colspan="17">Used to use</td>
-  </tr>
-  <tr>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></td>
-  </tr>
-</table><br>
+</table>
 
 <table>
   <tr>
@@ -121,17 +112,19 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /></td>
   </tr>
-</table><br>
+</table>
 
 <table>
   <tr>
-    <th colspan="17">Never again</td>
+    <th colspan="1">Used to use</td>
+    <th colspan="2">Never again</td>
   </tr>
   <tr>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /></td>
   </tr>
-</table><br>
+</table>
 
 
 <!--START_SECTION:waka-->
@@ -164,3 +157,5 @@
 
 
 <!--END_SECTION:waka-->
+
+[![k0d3r1s' github stats](https://github-readme-stats.vercel.app/api?username=k0d3r1s&show_icons=true&hide_border=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -39,7 +39,7 @@
 
 ### **Languages, Frameworks and Tools:**
 <div>
-<strong>Using:</strong>  
+<strong>Using:</strong><br>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/centos.svg" /> 
@@ -75,7 +75,7 @@
 <br>
 
 <div>
-<strong>Learning:</strong>
+<strong>Learning:</strong><br>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /> 
@@ -89,13 +89,13 @@
 <br>
 
 <div>
-<strong>Used to use:</strong>
+<strong>Used to use:</strong><br>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 </div>
 <br>
 
 <div>
-<strong>Would like to learn:</strong>
+<strong>Would like to learn:</strong><br>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
@@ -110,7 +110,7 @@
 <br>
 
 <div>
-<strong>Never again:</strong>
+<strong>Never again:</strong><br>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
 </div>

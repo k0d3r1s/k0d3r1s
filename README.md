@@ -38,8 +38,10 @@
 <br/>
 
 ### **Languages, Frameworks and Tools:**
-<strong>Using:</strong><br>
 <table>
+  <tr>
+    <th colspan="13">Using</td>
+  </tr>
   <tr>
     <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" /></td>
     <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /></td>
@@ -79,8 +81,10 @@
   </tr>
 </table><br>
 
-<strong>Learning:</strong><br>
 <table>
+  <tr>
+    <th colspan="13">Learning</td>
+  </tr>
   <tr>
     <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /></td>
     <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></td>
@@ -94,15 +98,19 @@
   </tr>
 </table><br>
 
-<strong>Used to use:</strong><br>
 <table>
+  <tr>
+    <th colspan="13">Used to use</td>
+  </tr>
   <tr>
     <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></td>
   </tr>
 </table><br>
 
-<strong>Would like to learn:</strong><br>
 <table>
+  <tr>
+    <th colspan="13">Would like to learn</td>
+  </tr>
   <tr>
     <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /></td>
     <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></td>
@@ -117,8 +125,10 @@
   </tr>
 </table><br>
 
-<strong>Never again:</strong><br>
 <table>
+  <tr>
+    <th colspan="13">Never again</td>
+  </tr>
   <tr>
     <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" /></td>
     <td><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /></td>

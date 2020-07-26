@@ -63,6 +63,7 @@
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" /> 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> 
+<br>
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /> 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /> 
 <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /> 

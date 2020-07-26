@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4">
+  <img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4"><br>
+  <img src="https://komarev.com/ghpvc/?username=k0d3r1s&color=brightgreen&style=flat-square&label=VIEWS">
 </p>
 
 ## Hi, I'm Dāvis /['da:vis']/ 👋

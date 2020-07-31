@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://last.fm/user/k0d3r1s" target="_blank"><img src="https://spotify-github-profile-mauve.vercel.app/api/view?uid=9d2gn8vajmgxg5vb7ow13d730&cover_image=false" alt="now playing"></a>
+  <a href="https://last.fm/user/k0d3r1s" target="_blank"><img src="https://spotify.source.lv/view?uid=9d2gn8vajmgxg5vb7ow13d730&cover_image=false" alt="now playing"></a>
 </p>
 
 <p align="center">

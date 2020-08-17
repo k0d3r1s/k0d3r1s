@@ -130,21 +130,21 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-34.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.1%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 336 Contributions in year 2020
+> 🏆 336 Contributions in the year 2020
  > 
-> 📦 Used 18.9 kB in GitHub's Storage 
+> 📦 18.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 1 Public Repository 
+> 📜 1 Public repository 
  > 
-> 🔑 13 Owned Private Repositories 
+> 🔑 13 Private repositories 
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    37 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.54% 
@@ -153,7 +153,7 @@
 🌙 Night      190 commits    ████████░░░░░░░░░░░░░░░░░   33.57%
 
 ```
-📅 **I'm Most Productive on Mondays** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       169 commits    ███████░░░░░░░░░░░░░░░░░░   29.86% 
@@ -167,26 +167,26 @@ Sunday       106 commits    ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Riga
+⌚︎ Time zone: Europe/Riga
 
-💬 Languages: 
+💬 Programming Languages: 
 Other                    1 hr 2 mins         ██████████████░░░░░░░░░░░   56.34% 
 HTML                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.74% 
 PHP                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
 SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
 XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
-🔥 Editors: 
+🔥 Code Editors: 
 Fish                     1 hr 2 mins         ██████████████░░░░░░░░░░░   55.85% 
 PhpStorm                 45 mins             ██████████░░░░░░░░░░░░░░░   40.82% 
 VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
 ```
 
-**I mostly code in PHP** 
+**I Mostly Code in PHP** 
 
 ```text
 PHP                      16 repos            ██████████████░░░░░░░░░░░   59.26% 

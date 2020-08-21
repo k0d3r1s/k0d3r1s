@@ -130,19 +130,19 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.1%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 336 Contributions in the year 2020
+> 🏆 336 Contributions in the Year 2020
  > 
 > 📦 18.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 1 Public repository 
+> 📜 1 Public Repository 
  > 
-> 🔑 13 Private repositories 
+> 🔑 13 Private Repositories 
 
 **I'm a Night 🦉** 
 
@@ -167,20 +167,20 @@ Sunday       106 commits    ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/Riga
+⌚︎ Time Zone: Europe/Riga
 
 💬 Programming Languages: 
-PHP                      4 hrs 50 mins       ████████████████░░░░░░░░░   64.66% 
-Other                    1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   21.89% 
-XML                      54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
+PHP                      4 hrs 49 mins       ████████████████░░░░░░░░░   66.26% 
+Other                    1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   22.48% 
+XML                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.26% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
-🔥 Code Editors: 
-PhpStorm                 5 hrs 50 mins       ███████████████████░░░░░░   78.11% 
-Fish                     1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   21.89%
+🔥 Editors: 
+PhpStorm                 5 hrs 39 mins       ███████████████████░░░░░░   77.52% 
+Fish                     1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   22.48%
 
 ```
 

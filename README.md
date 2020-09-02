@@ -37,6 +37,11 @@
 </a>
 <br/>
 
+### **SUPPORT**  
+#### BTC: 16XzkxAoDKPJmA7ffZkSsUxBpgBd2vgBKN
+#### ETH: 0x79A017F4Bd2e99aaD958d24F039e13F6b4d5dC72
+#### PAYPAL: https://www.paypal.me/k0d3r1s
+
 ### **Languages, Frameworks and Tools:**
 <table>
   <tr>
@@ -49,6 +54,7 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cloudflare.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/composer.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></td>
+    <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/datagrip.svg" /></td>
     <td align="center"><img width="22px" src="https://www.debian.org/logos/openlogo-nd.svg" /></td>
     <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/docker.png" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /></td>
@@ -59,9 +65,9 @@
     <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/gitkraken.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" /></td>
   </tr>
   <tr>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /></td>
     <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/linux.png" /></td>
@@ -78,6 +84,8 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /></td>
+  </tr>
+  <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /></td>
   </tr>
 </table>
@@ -87,11 +95,13 @@
     <th colspan="17">Learning</td>
   </tr>
   <tr>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /></td>
@@ -105,7 +115,6 @@
     <th colspan="17">Would like to learn</td>
   </tr>
   <tr>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" /></td>
@@ -120,9 +129,11 @@
 
 <table>
   <tr>
+    <th colspan="1">Never</td>
     <th colspan="2">Never again</td>
   </tr>
   <tr>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /></td>
   </tr>
@@ -203,7 +214,3 @@ HTML                     1 repos             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-[![k0d3r1s' github stats](https://github-readme-stats.vercel.app/api?username=k0d3r1s&show_icons=true&hide_border=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://komarev.com/ghpvc/?username=k0d3r1s&color=brightgreen&style=flat-square&label=VIEWS">

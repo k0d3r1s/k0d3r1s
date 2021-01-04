@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4"><br>
+  <a href="https://github.com/vairogs" target="_blank"><img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4"></a><br>
 </p>
 
 ## Hi, I'm Dāvis /['da:vis']/ 👋

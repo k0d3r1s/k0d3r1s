@@ -8,6 +8,10 @@
 
 ## Hi, I'm Dāvis /['da:vis']/ 👋
 
+<p align="center">
+  <a href="https://eu.badgr.com/public/assertions/KZVfqz0sS52LQ0q0-sYR2w" target="_blank"><img height="100" src="https://media.eu.badgr.com/uploads/badges/7fba883935c1e63a98123376f2da2e2d74022108c5205c6d7de8d03aab26e5d4.png"></a><br>
+</p>
+
 <a href="https://connect.symfony.com/profile/k0d3r1s">
   <img align="left" alt="Dāvis Zālītis | Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" />
 </a>

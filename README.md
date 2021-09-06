@@ -52,45 +52,47 @@
     <th colspan="17">Using</td>
   </tr>
   <tr>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/centos.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cloudflare.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/composer.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></td>
-    <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/datagrip.svg" /></td>
-    <td align="center"><img width="22px" src="https://www.debian.org/logos/openlogo-nd.svg" /></td>
-    <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/docker.png" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fontawesome.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /></td>
-    <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/gitkraken.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apache.svg" /><br>apache</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /><br>bootstrap</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/centos.svg" /><br>centos</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cloudflare.svg" /><br>cloudflare</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/composer.svg" /><br>composer</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><br>css3</td>
+    <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/datagrip.svg" /><br>datagrip</td>
+    <td align="center"><img width="22px" src="https://www.debian.org/logos/openlogo-nd.svg" /><br>debian</td>
+    <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/docker.png" /><br>docker</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /><br>elastic</td>
   </tr>
   <tr>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /></td>
-    <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/linux.png" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" /></td>
-    <td align="center"><img width="22px" src="https://www.php.net/images/logos/new-php-logo.svg" /></td>
-    <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/phpstorm.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /></td>
-    <td align="center"><img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fontawesome.svg" /><br>fontawesome</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /><br>git</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><br>github</td>
+    <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/gitkraken.svg" /><br>gitkraken</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /><br>gitlab</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><<br>html5/td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><br>js</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" /><br>jetbrains</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /><br>jira</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /><br>keepassxc</td>
   </tr>
   <tr>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /></td>
+    <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/linux.png" /><br>linux</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" /><br>ms teams</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /><br>mysql</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" /><br>oracle</td>
+    <td align="center"><img width="22px" src="https://www.php.net/images/logos/new-php-logo.svg" /><br>php</td>
+    <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/phpstorm.svg" /><br>phpstorm</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /><br>postman</td>
+    <td align="center"><img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" /><br>pycharm</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><br>python</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /><br>redis</td>
+  </tr>
+  <tr>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /><br>sass</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /><br>sonarlint</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /><br>symfony</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /><br>vim</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /><br>webpack</td>
   </tr>
 </table>
 
@@ -99,18 +101,18 @@
     <th colspan="17">Learning</td>
   </tr>
   <tr>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /><br>android</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" /><br>angular</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><br>css3</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /><br>elastic</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><br>html5</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><br>js</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" /><br>kotlin</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /><br>nodejs</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><br>python</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /><br>sass</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" /><br>ts</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /><br>webpack</td>
   </tr>
 </table>
 
@@ -119,15 +121,16 @@
     <th colspan="17">Would like to learn</td>
   </tr>
   <tr>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/materialdesign.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /><br>c++</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /><br>c#</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" /><br>dart</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" /><br>flutter</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /><br>go</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" /><br>k8s</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/materialdesign.svg" /><br>material</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /><br>react</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg" /><br>svelte</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /><br>vue</td>
   </tr>
 </table>
 
@@ -137,9 +140,9 @@
     <th colspan="2">Never again</td>
   </tr>
   <tr>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" /></td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /></td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /><br>wordpress</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/drupal.svg" /><br>drupal</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /><br>windows</td>
   </tr>
 </table>
 

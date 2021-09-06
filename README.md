@@ -60,9 +60,9 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><br>css3</td>
     <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/datagrip.svg" /><br>datagrip</td>
     <td align="center"><img width="22px" src="https://www.debian.org/logos/openlogo-nd.svg" /><br>debian</td>
+</tr>
+<tr>
     <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/docker.png" /><br>docker</td>
-    </tr>
-  <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /><br>elastic</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fontawesome.svg" /><br>fontawesome</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /><br>git</td>
@@ -70,26 +70,28 @@
     <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/gitkraken.svg" /><br>gitkraken</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" /><br>gitlab</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><<br>html5/td>
+</tr>
+<tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><br>js</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" /><br>jetbrains</td>
-    </tr>
-  <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /><br>jira</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /><br>keepassxc</td>
     <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/linux.png" /><br>linux</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" /><br>ms teams</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /><br>mysql</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" /><br>oracle</td>
+</tr>
+<tr>
     <td align="center"><img width="22px" src="https://www.php.net/images/logos/new-php-logo.svg" /><br>php</td>
     <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/phpstorm.svg" /><br>phpstorm</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /><br>postman</td>
-    </tr>
-  <tr>
     <td align="center"><img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /><br>pycharm</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><br>python</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /><br>redis</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /><br>sass</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /><br>sonarlint</td>
+</tr>
+<tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /><br>symfony</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /><br>vim</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /><br>webpack</td>
@@ -109,6 +111,8 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><br>js</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" /><br>kotlin</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /><br>nodejs</td>
+</tr>
+<tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><br>python</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /><br>sass</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" /><br>ts</td>
@@ -129,6 +133,8 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" /><br>k8s</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/materialdesign.svg" /><br>material</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /><br>react</td>
+</tr>
+<tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg" /><br>svelte</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /><br>vue</td>
   </tr>

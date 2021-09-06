@@ -85,7 +85,7 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /><br>postman</td>
     </tr>
   <tr>
-    <td align="center"><img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" /><br>pycharm</td>
+    <td align="center"><img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" /><br>pycharm</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><br>python</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /><br>redis</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /><br>sass</td>

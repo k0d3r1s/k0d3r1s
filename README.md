@@ -61,9 +61,9 @@
     <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/datagrip.svg" /><br>datagrip</td>
     <td align="center"><img width="22px" src="https://www.debian.org/logos/openlogo-nd.svg" /><br>debian</td>
     <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/docker.png" /><br>docker</td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /><br>elastic</td>
-  </tr>
+    </tr>
   <tr>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg" /><br>elastic</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fontawesome.svg" /><br>fontawesome</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" /><br>git</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><br>github</td>
@@ -72,10 +72,10 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><<br>html5/td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><br>js</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jetbrains.svg" /><br>jetbrains</td>
+    </tr>
+  <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /><br>jira</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /><br>keepassxc</td>
-  </tr>
-  <tr>
     <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/linux.png" /><br>linux</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" /><br>ms teams</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /><br>mysql</td>
@@ -83,11 +83,11 @@
     <td align="center"><img width="22px" src="https://www.php.net/images/logos/new-php-logo.svg" /><br>php</td>
     <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/phpstorm.svg" /><br>phpstorm</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /><br>postman</td>
+    </tr>
+  <tr>
     <td align="center"><img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" /><br>pycharm</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><br>python</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /><br>redis</td>
-  </tr>
-  <tr>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /><br>sass</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /><br>sonarlint</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /><br>symfony</td>

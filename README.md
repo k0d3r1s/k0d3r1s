@@ -77,11 +77,12 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /><br>jira</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /><br>keepassxc</td>
     <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/linux.png" /><br>linux</td>
+    <td align="center"><img width="22px" src="https://luxafor.com/wp-content/uploads/2020/02/Luxafor-Flag-Green-opt-1.jpg" /><br>luxafor flag</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" /><br>ms teams</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /><br>mysql</td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" /><br>oracle</td>
 </tr>
 <tr>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oracle.svg" /><br>oracle</td>
     <td align="center"><img width="22px" src="https://www.php.net/images/logos/new-php-logo.svg" /><br>php</td>
     <td align="center"><img width="22px" src="https://raw.githubusercontent.com/k0d3r1s/k0d3r1s/master/assets/images/phpstorm.svg" /><br>phpstorm</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" /><br>postman</td>
@@ -89,9 +90,9 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><br>python</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" /><br>redis</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /><br>sass</td>
-    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /><br>sonarlint</td>
 </tr>
 <tr>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /><br>sonarlint</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /><br>symfony</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /><br>vim</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /><br>webpack</td>

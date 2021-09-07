@@ -77,7 +77,7 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg" /><br>jira</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keepassxc.svg" /><br>keepassxc</td>
     <td align="center"><img width="22px" src="https://img.icons8.com/color/48/000000/linux.png" /><br>linux</td>
-    <td align="center"><img width="22px" src="https://luxafor.com/wp-content/uploads/2020/02/Luxafor-Flag-Green-opt-1.jpg" /><br>luxafor flag</td>
+    <td align="center"><img width="48px" src="https://www.gadgenda.com/portal-img/brand_logo/5/luxafor-logo.jpg" /></td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftteams.svg" /><br>ms teams</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /><br>mysql</td>
 </tr>

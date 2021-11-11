@@ -42,8 +42,8 @@
 <br/>
 
 ### **SUPPORT**  
-#### BTC: 16XzkxAoDKPJmA7ffZkSsUxBpgBd2vgBKN
-#### ETH: 0x79A017F4Bd2e99aaD958d24F039e13F6b4d5dC72
+#### BTC: 3DFrrSHmRLF61Uv9JTsaU1Y2GHyn2LBD6h
+#### ETH: 0x5ce962de6356a0fdc5063053297f3b6b595be5c2
 #### PAYPAL: https://www.paypal.me/k0d3r1s
 
 ### **Languages, Frameworks and Tools:**

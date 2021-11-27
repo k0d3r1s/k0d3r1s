@@ -157,6 +157,8 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
+> 🏆 901 Contributions in the Year 2021
+ > 
 > 📦 70.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -206,5 +208,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2021
+ Last Updated on 27/11/2021
 <!--END_SECTION:waka-->

@@ -95,8 +95,10 @@
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" /><br>sass</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sonarlint.svg" /><br>sonarlint</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" /><br>symfony</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /><br>ubuntu</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /><br>vim</td>
     <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" /><br>webpack</td>
+    <td align="center"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xfce.svg" /><br>xfce</td>
   </tr>
 </table>
 

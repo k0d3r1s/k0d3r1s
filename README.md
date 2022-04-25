@@ -45,6 +45,7 @@
 #### BTC: 3DFrrSHmRLF61Uv9JTsaU1Y2GHyn2LBD6h
 #### ETH: 0x5ce962de6356a0fdc5063053297f3b6b595be5c2
 #### PAYPAL: https://www.paypal.me/k0d3r1s
+#### KO-FI: https://ko-fi.com/k0d3r1s
 
 ### **Languages, Frameworks and Tools:**
 <table>

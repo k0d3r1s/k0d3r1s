@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://last.fm/user/k0d3r1s" target="_blank"><img src="https://spotify.zintnieks.com/view?uid=9d2gn8vajmgxg5vb7ow13d730&cover_image=false" alt="now playing"></a>
+  <a href="https://last.fm/user/k0d3r1s" target="_blank"><img src="https://spotify.zintnieks.com/view?uid=317kvogbu3omjbz3yxxet3ljd3g4&cover_image=false" alt="now playing"></a>
 </p>
 
 <p align="center">

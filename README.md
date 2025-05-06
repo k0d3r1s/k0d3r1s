@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://last.fm/user/k0d3r1s" target="_blank"><img src="https://spotify.zintnieks.com/view?uid=317kvogbu3omjbz3yxxet3ljd3g4&cover_image=false" alt="now playing"></a>
+  <a href="https://last.fm/user/k0d3r1s" target="_blank"><img src="https://widget.vairogs.com/view?uid=317kvogbu3omjbz3yxxet3ljd3g4&cover_image=false" alt="now playing"></a>
 </p>
 
 <p align="center">
@@ -12,6 +12,7 @@
   <a href="https://api.eu.badgr.io/public/assertions/KZVfqz0sS52LQ0q0-sYR2w"><img height="100" src="https://media.eu.badgr.com/uploads/badges/7fba883935c1e63a98123376f2da2e2d74022108c5205c6d7de8d03aab26e5d4.png"></a><br>
 </p>
 
+<a href="https://me.vairogs.com"><img alt="Dāvis Zālītis | LinkTree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linktree.svg" /></a>&nbsp;
 <a href="https://connect.symfony.com/profile/k0d3r1s"><img alt="Dāvis Zālītis | Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/symfony.svg" /></a>&nbsp;&nbsp;
 <a href="https://x.com/k0d3r1s"><img alt="Dāvis Zālītis | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/x.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/davis-zalitis"><img alt="Dāvis Zālītis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" /></a>&nbsp;&nbsp;

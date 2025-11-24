@@ -1,12 +1,8 @@
 <p align="center">
-  <a href="https://github.com/vairogs"><img src="https://avatars0.githubusercontent.com/u/44346553?s=84&v=4"></a><br>
+  <a href="https://github.com/vairogs"><img src="https://avatars.githubusercontent.com/u/227439073?s=200&v=4"></a><br>
 </p>
 
 ## Hi, I'm Dāvis /['da:vis']/ 👋
-
-<p align="center">
-  <a href="https://api.eu.badgr.io/public/assertions/KZVfqz0sS52LQ0q0-sYR2w"><img height="100" src="https://media.eu.badgr.com/uploads/badges/7fba883935c1e63a98123376f2da2e2d74022108c5205c6d7de8d03aab26e5d4.png"></a><br>
-</p>
 
 <a href="https://me.vairogs.com"><img alt="Dāvis Zālītis | LinkTree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linktree.svg" /></a>&nbsp;
 <a href="https://connect.symfony.com/profile/k0d3r1s"><img alt="Dāvis Zālītis | Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/symfony.svg" /></a>&nbsp;&nbsp;

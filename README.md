@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/vairogs"><img src="https://avatars.githubusercontent.com/u/227439073?s=200&v=4"></a><br>
+  <a href="https://github.com/valksor"><img src="https://avatars.githubusercontent.com/u/227439073?s=200&v=4"></a><br>
 </p>
 
 ## Hi, I'm Dāvis /['da:vis']/ 👋

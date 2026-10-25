@@ -26,8 +26,5 @@ Symfony Certified Senior Web Developer from Rīga 🇱🇻 — I build developer
 ➜ More at **[github.com/valksor](https://github.com/valksor)** · [valksor.com](https://valksor.com)
 
 ### **SUPPORT**  
-#### XYO: 0x34aFAAC35cF705078aDdE6deB4Eca0959B840786
-#### BTC: 3JSKTwYk1sfqsFyXisFsxvdD5yb7L81vBD
-#### ETH: 0xe065D3F01e8826Ecbd128abfB8F0B98069B98Ad6
 #### PAYPAL: https://www.paypal.me/k0d3r1s
 #### KO-FI: https://ko-fi.com/k0d3r1s

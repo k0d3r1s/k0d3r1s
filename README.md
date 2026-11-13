@@ -6,7 +6,7 @@
 
 Symfony Certified Senior Web Developer from Rīga 🇱🇻 — I build developer tooling and web platforms in **PHP / Symfony, Go, and Rust** under [**@valksor**](https://github.com/valksor).
 
-<a href="https://me.vairogs.com"><img alt="Dāvis Zālītis | LinkTree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linktree.svg" /></a>&nbsp;
+<a href="https://linktr.ee/k0d3r1s"><img alt="Dāvis Zālītis | LinkTree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linktree.svg" /></a>&nbsp;
 <a href="https://connect.symfony.com/profile/k0d3r1s"><img alt="Dāvis Zālītis | Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/symfony.svg" /></a>&nbsp;&nbsp;
 <a href="https://x.com/k0d3r1s"><img alt="Dāvis Zālītis | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/x.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/davis-zalitis"><img alt="Dāvis Zālītis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" /></a>&nbsp;&nbsp;
